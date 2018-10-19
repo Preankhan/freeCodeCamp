@@ -37,6 +37,7 @@ PlayStation Portable and Raspberry Pi support was demonstrated but not released.
 * VA-11 Hall-A
 * Undertale
 * Nuclear Throne
+* Risk of Rain
 
 #### More Information:
 * [Wikipedia] https://en.wikipedia.org/wiki/GameMaker_Studio<br>
